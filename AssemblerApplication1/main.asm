@@ -9,7 +9,7 @@ uint_8t cnt = 0;
 while(1){
 for(cnt = 0; cnt<16;cnt++){
 PORTA = seg_code[cnt]
-_delay_ms(1000);
+_delay_ms(10000);
 }
 }
 
