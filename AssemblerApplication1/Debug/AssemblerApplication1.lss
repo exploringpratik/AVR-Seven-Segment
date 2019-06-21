@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.2.7  C:\Users\explo\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm Fri Jun 21 08:42:40 2019
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32def.inc'
+C:\Users\explo\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm(1): error: Cannot find include file: avr/io.h
+C:\Users\explo\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm(2): error: Cannot find include file: util/delay.h
+C:\Users\explo\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm(4): error: syntax error, unexpected FUNCTION
